@@ -1,0 +1,9 @@
+[package]
+name = "csv2xml"
+version = "0.1.0"
+authors = ["Felix"]
+
+[dependencies]
+
+quick-xml = "0.9.1"
+quick-csv = "0.1.6"
